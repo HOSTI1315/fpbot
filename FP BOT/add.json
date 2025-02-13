@@ -1,0 +1,44 @@
+{
+    "prefixes": {
+        "perm": ["perm", "permanent", "перм", "навсегда", "перамент"],
+        "shiny": ["shiny", "шайни", "блестящий"]
+    },
+    "fruits_with_perm": {
+        "Dragon": ["dragon", "дракон", "драгон", "драко"],
+        "East Dragon": ["East dragon", "East дракон", "East драгон", "East драко", "Восточный дракон", "Восточный драгон", "Восточный драко","Восточный dragon", "ест дракон", "ест драгон", "ест драко","ест dragon", "Dragon (East)"],
+        "West Dragon": ["west dragon", "west дракон", "west драгон", "west драко", "Западный дракон", "Западный драгон", "Западный драко","Западный dragon", "вест дракон", "вест драгон", "вест драко","вест dragon", "Dragon (West)"],
+        "Leopard": ["leopard", "леопард", "лео"],
+        "Kitsune": ["kitsune", "кицуне"],
+        "Shadow": ["shadow", "тень"],
+        "Love": ["love", "любовь"],
+        "Portal": ["portal", "портал"],
+        "Rumble": ["rumble", "грохот"],
+        "Gravity": ["gravity", "гравитация"],
+        "Mammoth": ["mammoth", "мамонт"],
+        "T-Rex": ["t-rex", "тираннозавр","Т-рех"],
+        "Dough": ["dough", "тесто"],
+        "Venom": ["venom", "яд"],
+        "Control": ["control", "контроль"],
+        "Gas": ["gas", "газ", "гас"],
+        "Spirit": ["spirit", "дух"],
+        "Yeti": ["yeti", "йети"]
+    },
+    "units_with_shiny": {
+        "GOLDEN KING": ["GOLDEN KING", "GILGAMESH "],
+        "HOMURA ": ["HOMURA ", "SHADOWGIRL"],
+        "ROGER ": ["ROGER ", "PIRATE KING"],
+        "DRACULA ": ["DRACULA ", "Alucard"],
+        "DAZAI": ["InHuman", "DAZAI"],
+        "LULU": ["LULU"],
+        "MILLIE": ["MILLIE", "Mamy"]
+    },
+    "items_without_prefixes": {
+        "SSS dmg": ["SSS dmg"],
+        "SSS spa": ["SSS spa"],
+        "SSS rng": ["SSS rng"],
+        "SS dmg": ["SS dmg"],
+        "SS spa": ["SS spa"],
+        "SS rng": ["SS rng"],
+        "SSS dmg/spa": ["SSS dmg/spa"]
+    }
+}
